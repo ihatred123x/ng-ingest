@@ -1,3 +1,14 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
+/front-end/node_modules
+
+/front-end/.sass-cache
+/front-end/connect.lock
+/front-end/coverage
+/front-end/libpeerconnection.log
+/front-end/npm-debug.log
+/front-end/yarn-error.log
+/front-end/testem.log
+/front-end/typings
+
